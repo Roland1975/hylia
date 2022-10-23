@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "test 1",
-      "url": "test1",
-      "external": ""
-    },
-    {
       "text": "Accueil",
       "url": "/",
       "external": false
